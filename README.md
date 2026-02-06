@@ -8,4 +8,4 @@
 - Web: React, Node.js, HTML/CSS.
 - Datos: MySQL, Supabase.
 
-📫 Contáctame en: [Tu Enlace a LinkedIn]
+📫 Contáctame en: [www.linkedin.com/in/ulisespamg]
