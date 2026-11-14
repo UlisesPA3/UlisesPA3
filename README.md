@@ -1,5 +1,3 @@
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
-
 # Ulises Pérez
 **Cybersecurity Engineer · AI Engineer · Backend**  
 🎓 **UAM — IPN**
