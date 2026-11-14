@@ -11,13 +11,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am passionate about understanding how things work "under the hood." My hybrid background (Technical Degree + Computer Engineering) allows me to seamlessly navigate between modern web development and low-level programming. Currently focusing my efforts entirely on **Cybersecurity** and **Ethical Hacking**.
 
-- 🔭 **Currently working on:** Secure Web Apps and complex algorithm projects.
-- 🌱 **Currently learning:** Pentesting, Network Security, and Software Architecture.
-- ⚡ **Fun fact:** I love solving complex problems with C++ and building out multi-agent environments.
+-  **Currently working on:** Secure Web Apps and complex algorithm projects.
+-  **Currently learning:** Pentesting, Network Security, and Software Architecture.
+-  **Fun fact:** I love solving complex problems with C++ and building out multi-agent environments.
 
 ---
 
@@ -50,11 +50,3 @@ I am passionate about understanding how things work "under the hood." My hybrid 
   <img src="https://img.shields.io/badge/MySQL-40E0D0?style=flat-square&logo=mysql&logoColor=black" alt="MySQL" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UlisesPA3&show_icons=true&title_color=40E0D0&icon_color=40E0D0&text_color=a6a6a6&bg_color=0d1117&hide_border=true&locale=en" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesPA3&layout=compact&title_color=40E0D0&text_color=a6a6a6&bg_color=0d1117&hide_border=true&lang_count=6" height="160" alt="Top Languages" />
-</p>
